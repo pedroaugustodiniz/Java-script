@@ -58,7 +58,7 @@ form button:hover {
 }
 
 .paragrafo-resultado, .bad {
-  background: var(--primary-color);
+  background: rgb(117, 250, 117);
   padding: 10px 20px;
 }
 
